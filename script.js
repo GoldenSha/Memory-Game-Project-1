@@ -1,0 +1,3 @@
+//cards information
+
+const cards = []
