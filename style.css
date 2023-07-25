@@ -1,0 +1,25 @@
+/*game board*/
+body {
+    background-color:whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+/*game tiles*/
+.gameGrid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: gold;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
